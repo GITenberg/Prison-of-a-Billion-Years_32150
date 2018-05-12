@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32150#Prison-of-a-Billion-Years
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-04-27'
 gutenberg_type: Text
